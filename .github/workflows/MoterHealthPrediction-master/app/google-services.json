@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360102048050",
+    "project_id": "motohealthprediction-1030a",
+    "storage_bucket": "motohealthprediction-1030a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360102048050:android:5abfcdd15988572693272b",
+        "android_client_info": {
+          "package_name": "com.example.moterhealthprediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy6zKC-vTDmg6CmuBq3HYg3lUGL3dasQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
